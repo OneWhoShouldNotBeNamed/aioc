@@ -346,7 +346,7 @@ export const sreelekshmi: profileData = {
           },
         },
         {
-          name: "Trainin and Certifications",
+          name: "Training and Certifications",
           type: "list",
           content: {
             id: "Training and Certifications",
